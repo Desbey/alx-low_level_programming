@@ -1,2 +1,1 @@
-# I am learning low level programing
-Learn C programming
+alx-low_level_programming
